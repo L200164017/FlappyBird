@@ -1,4 +1,5 @@
 #Greenfoot project file
+class.FlappyBird
 class.FlappyBird.image=flappybird2.png
 class.FlappyBird.superclass=greenfoot.Actor
 class.FlappyWorld.image=flappy_background.png
